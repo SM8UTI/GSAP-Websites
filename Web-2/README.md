@@ -4,4 +4,4 @@
 
 ### 💻 Output
 
-<video src="./output.webm" width="100%"></video>
+![output.png](./output.png)
